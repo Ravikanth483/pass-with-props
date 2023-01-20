@@ -1,0 +1,21 @@
+h1 {
+  font-size: 30px;
+  color: r̥#05aef6;
+  text-align: center;
+  background-color: rgb(244, 243, 242);
+  }
+  
+h2 {
+      font-size: 30px;
+      color:#0cb7e2;
+      text-align: center;
+      background-color: rgb(247, 9, 17);
+}
+button{
+  color: #300c02;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  box-shadow: #300c02;
+}
+
